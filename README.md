@@ -51,7 +51,7 @@ I built this entire application using the **Google AI Studio "Build" Mode** (Vib
 **ClearHealth is a prototype for educational purposes only.** It is not a substitute for professional medical advice, diagnosis, or treatment.
 
 ## 🔗 Links
-- [Try the Live App (AI Studio)][(YOUR_AI_STUDIO_LINK_HERE)](https://ai.studio/apps/drive/19byL8J764QoXh6SpwdzH-4BxP5cxNH6b)
+- [Try the Live App (AI Studio)][(https://ai.studio/apps/drive/19byL8J764QoXh6SpwdzH-4BxP5cxNH6b)]
 - [Kaggle Submission](YOUR_KAGGLE_LINK_HERE)
 1. Install dependencies:
    `npm install`
