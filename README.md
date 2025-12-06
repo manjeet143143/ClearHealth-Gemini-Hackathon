@@ -45,7 +45,7 @@ I built this entire application using the **Google AI Studio "Build" Mode** (Vib
 ## 📸 Screenshots
 | Dashboard View | Deep Dive Analysis |
 |:---:|:---:|
-| ![Dashboard](https://placehold.co/600x400?text=Upload+Your+Screenshot+1) | ![Analysis](https://placehold.co/600x400?text=Upload+Your+Screenshot+2) |
+| ![Dashboard]([https://placehold.co/600x400?text=Upload+Your+Screenshot+1](https://github.com/manjeet143143/ClearHealth-Gemini-Hackathon/blob/main/Image1.jpg)) | ![Analysis](https://placehold.co/600x400?text=Upload+Your+Screenshot+2) |
 
 ## ⚠️ Disclaimer
 **ClearHealth is a prototype for educational purposes only.** It is not a substitute for professional medical advice, diagnosis, or treatment.
