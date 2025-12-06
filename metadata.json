@@ -1,0 +1,7 @@
+{
+  "name": "ClearHealth",
+  "description": "A modern medical analysis tool helping users understand blood test reports with AI-driven insights and visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
