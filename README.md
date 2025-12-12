@@ -53,7 +53,7 @@ I built this entire application using the **Google AI Studio "Build" Mode** (Vib
 
 ## 🔗 Links
 - [Try the Live App (AI Studio)][(https://ai.studio/apps/drive/19byL8J764QoXh6SpwdzH-4BxP5cxNH6b)]
-- [Kaggle Submission](YOUR_KAGGLE_LINK_HERE)
+- [Kaggle Submission][(https://kaggle.com/competitions/gemini-3/writeups/new-writeup-1765044062522)]
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
