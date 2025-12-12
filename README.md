@@ -15,7 +15,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/19byL8J764QoXh6SpwdzH-4
 
 # 🏥 ClearHealth: Intelligent Medical Report Analyzer
 
-> **Winner/Entry for Google DeepMind "Vibe Code" Hackathon 2024**
+> **Entry for Google DeepMind "Vibe Code" Hackathon 2025**
 > *Built with Gemini 3 Pro & Google AI Studio*
 
 [![Gemini 3 Pro](https://img.shields.io/badge/AI-Gemini%203%20Pro-8E44AD?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
